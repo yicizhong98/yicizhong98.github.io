@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D student at <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The University of Tokyo</a>, currently visiting <a href='https://web.astro.princeton.edu/'>Princeton University</a>. Department of Astrophysical Sciences, 4 Ivy Lane, Princeton University
+subtitle: Ph.D. student at <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The University of Tokyo</a>, currently visiting Department of Astrophysical Sciences at <a href='https://web.astro.princeton.edu/'>Princeton University</a>
 
 profile:
   align: right
