@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>University of Tokyo</a>. 7-3-1 Hongo Bunkyo-Ku 113-0033 Japan; currently visiting <a href='https://web.astro.princeton.edu/'>Princeton University</a>. Department of Astrophysical Sciences, 4 Ivy Lane, Princeton University
+subtitle: Ph.D student at <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The University of Tokyo</a>, currently visiting <a href='https://web.astro.princeton.edu/'>Princeton University</a>. Department of Astrophysical Sciences, 4 Ivy Lane, Princeton University
 
 profile:
   align: right
