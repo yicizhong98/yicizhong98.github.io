@@ -6,7 +6,7 @@ subtitle: Ph.D student at <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The Uni
 
 profile:
   align: right
-  image: img/avatar.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>024B Peyton Hall</p>
