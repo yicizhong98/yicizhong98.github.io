@@ -82,9 +82,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: YICI ZHONG (钟伊慈) # blog_name will be displayed in your blog page
+blog_nav_title: NuS # your blog must have a title for it to be displayed in the nav bar
+blog_description: Anything new
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -92,7 +92,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: yczhong # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -202,8 +202,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: ZHONG
+  first_name: [Yici]
 
   style: apa
   locale: en
