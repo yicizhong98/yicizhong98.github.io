@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>University of Tokyo</a>. 7-3-1 Hongo Bunkyo-Ku 113-0033 Japan; currently visiting <a href='https://web.astro.princeton.edu/'>Princeton University</a>. Department of Astrophysical Sciences, 4 Ivy Lane, Princeton University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>024B Peyton Hall</p>
+    <p>4 Ivy Lane</p>
+    <p>Princeton, NJ 08544</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
