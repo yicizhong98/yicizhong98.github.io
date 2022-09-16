@@ -16,13 +16,6 @@
       year: 2021
       description: Thesis Topic: Study on the effect of supernova fallback on the neutron star diversity
 
-- title: Talks
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2021-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Selected Honors and Awards
   type: time_table
   contents:
