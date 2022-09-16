@@ -36,7 +36,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -66,8 +66,7 @@ github_username: yicizhong98
 orcid_id: # your ORCID ID
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
+  Preferrably by EMAIL
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
