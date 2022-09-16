@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: AboutMe
 permalink: /
 subtitle: Ph.D. student in Physics at <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The University of Tokyo</a>, currently visiting Department of Astrophysical Sciences at <a href='https://web.astro.princeton.edu/'>Princeton University</a>
 
