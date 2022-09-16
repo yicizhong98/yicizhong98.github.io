@@ -19,9 +19,9 @@
 - title: Scientific talks
   type: time_table
   contents:
-    - year: 2019
-      items: 
-        - Outstanding Graduates of Central South University
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2021-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Selected Honors and Awards
   type: time_table
