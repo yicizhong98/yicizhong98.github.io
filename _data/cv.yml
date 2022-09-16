@@ -18,6 +18,10 @@
 
 - title: Scientific talks
   type: time_table
+  contents:
+    - year: 2019
+      items: 
+        - Outstanding Graduates of Central South University
 
 - title: Selected Honors and Awards
   type: time_table
