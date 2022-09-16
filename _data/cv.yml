@@ -29,13 +29,3 @@
     - year: 2019
       items: 
         - Outstanding Graduates of Central South University
-
-- title: Scientific talks
-  type: time_table
-  contents:
-    - title: "Wind from strongly magnetized rapidly spinning white dwarf", International School of Cosmic Ray Astrophysics, Maurice M. Shapiro, 22nd Course: From cosmic particles to gravitational waves: now and to come, Erice, Sicily, Italy
-      year: 2022
-    - title: "Study  on  the  effect  of  the  outflow  from young  neutron  stars  and  supernova fallback  on  the  neutron  star  diversity", YITP workshop: Extreme Outflow in Astrophysical Transients, Kyoto
-      year: 2021
-    - title: "How much supernova fallback can invade newborn pulsar wind and magnetosphere?": ASJ Spring Annual Meeting
-      year: 2020
