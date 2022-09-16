@@ -16,7 +16,7 @@
       year: 2021
       description: Thesis Topic: Study on the effect of supernova fallback on the neutron star diversity
 
-- title: Scientific talks
+- title: Talks
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
