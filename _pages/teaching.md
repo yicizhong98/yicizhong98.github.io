@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /life/
-title: Life
-description: except PHYSICS
+title: Life 
+description: Life beyond Physics
 nav: true
 nav_order: 5
 ---
