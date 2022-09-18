@@ -23,6 +23,12 @@ BOOKS:
 - <a href='https://baike.baidu.com/item/%E7%9B%AE%E9%80%81/5698600'> 龙应台 《目送》 </a>
 - 韩江 《少年来了》 (소년이온다) 
 - <a href='https://baike.baidu.com/item/%E5%8D%97%E6%B8%A1%E5%8C%97%E5%BD%92/1384599'> 岳南 《南渡北归》</a>
+- <a href='https://en.wikipedia.org/wiki/Ninety-Three'> Victor Hugo <Ninety-Three> </a>
+- Alexander Herzen <My Past and Thoughts>
+
+Play:
+- <a href='https://en.wikipedia.org/wiki/Copenhagen_(play)'> Michael Frayn: Copenhagen </a>
+- <a href='https://baike.baidu.com/item/%E5%9B%9B%E4%B8%96%E5%90%8C%E5%A0%82/5388500'> 四世同堂 (Four Generations Under One Roof) 2010, 导演: 田沁鑫 </a>
 
 Favorites:
 - Physicist: P.A.M Dirac (theorist), Chien-Shiung Wu (吴健雄) (Experimentalist)
