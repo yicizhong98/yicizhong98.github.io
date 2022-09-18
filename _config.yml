@@ -83,7 +83,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: MassiveNuS # blog_name will be displayed in your blog page
 blog_nav_title: NuS # your blog must have a title for it to be displayed in the nav bar
-blog_description: Anything new
+blog_description: What's new
 permalink: /blog/:year/:title/
 
 # Pagination
