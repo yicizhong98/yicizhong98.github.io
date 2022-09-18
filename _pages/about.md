@@ -6,7 +6,7 @@ subtitle: Ph.D. student in Physics at <a href='https://www.phys.s.u-tokyo.ac.jp/
 
 profile:
   align: right
-  image: avatar.jpg
+  image: avatar_hu35907d964f08126e17883956c72fbd36_2383951_270x270_fill_q75_lanczos_center.jpg
   image_circular: false # crops the image to make it circular
   address: >
     Photo @2018 in Berkeley
