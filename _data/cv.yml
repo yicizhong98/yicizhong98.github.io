@@ -24,13 +24,13 @@
       description: Thesis Topic - Research on medical use of layer-by-layer (LBL) self-assembled polymers
  
  - title: Experience
-  type: time_table
-  contents:
-    - title: Undergraduate Researcher
-      institution: Monash University, AU
-    - title: Summer student
-      institution: University of California, Berkeley, USA
-    - title: Undergraduate Researcher
-      institution: The Institute of High Energy Physics of the Chinese Academy of Sciences, CN
-    - title: Summer student
-      institution: Massachusetts Institute of Technology, USA
+   type: time_table
+   contents:
+     - title: Undergraduate Researcher
+       institution: Monash University, AU
+     - title: Summer student
+       institution: University of California, Berkeley, USA
+     - title: Undergraduate Researcher
+       institution: The Institute of High Energy Physics of the Chinese Academy of Sciences, CN
+     - title: Summer student
+       institution: Massachusetts Institute of Technology, USA
