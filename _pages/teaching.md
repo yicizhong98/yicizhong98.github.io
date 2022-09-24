@@ -34,6 +34,7 @@ Play:
 Favorites:
 - Physicist: P.A.M Dirac (theorist), Chien-Shiung Wu (吴健雄) (Experimentalist)
 - Writer: Kenneth Pai Hsien-yung (白先勇)
+- Soccer player: <a href='https://www.instagram.com/andriyshevchenko/'> Andriy Shevchenko </a> 
 - Film director: Christopher Nolan
 - Singer: Hins Cheung King Hin (张敬轩), Jacky Cheung Hok Yau (张学友)
 - Youtuber: <a href='https://www.youtube.com/c/twosetviolin'> @TwoSetViolin </a>
