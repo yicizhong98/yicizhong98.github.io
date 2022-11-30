@@ -8,15 +8,15 @@ nav_order: 5
 ---
 
 TV DRAMA/MOVIE/ANIMATION:
-- <a href='https://www.netflix.com/title/80025678'>The Crown Season 4 </a>
-- <a href='https://jujutsukaisen.jp/onair/'>呪術廻戦 (Jujutsu Kaisen) </a>
-- <a href='https://zh.wikipedia.org/wiki/%E4%B8%80%E6%8A%8A%E9%9D%92'>一把青 (A Touch of Green) </a>
-- <a href='https://zh.m.wikipedia.org/zh/%E7%BE%8E%E4%B8%BD%E5%BF%83%E7%81%B5'> A Beautiful Mind </a>
+- <a href='https://www.netflix.com/title/80025678'>The Crown Season 4 (王冠第四季) </a>
+- <a href='https://jujutsukaisen.jp/onair/'> 呪術廻戦 (咒术回战) </a>
+- <a href='https://zh.wikipedia.org/wiki/%E4%B8%80%E6%8A%8A%E9%9D%92'> A Touch of Green (一把青) </a>
+- <a href='https://zh.m.wikipedia.org/zh/%E7%BE%8E%E4%B8%BD%E5%BF%83%E7%81%B5'> A Beautiful Mind (美丽心灵) </a>
 - <a href='https://zh.m.wikipedia.org/zh-hans/%E5%86%B2%E5%A4%A9_(%E7%B4%80%E9%8C%84%E7%89%87)'> 冲天 </a>
-- <a href='https://zh.m.wikipedia.org/zh/%E8%80%80%E7%9C%BC'> Dazzling (눈이부시게) </a>
-- <a href='https://zh.wikipedia.org/zh-cn/%E5%85%A8%E9%9D%A2%E5%95%9F%E5%8B%95'> Inception </a>
-- <a href='https://zh.m.wikipedia.org/zh/%E5%A6%99%E6%89%8B%E4%BB%81%E5%BF%83'> 妙手仁心 (Healing Hands), Season 1 ONLY </a>
-- <a href='https://zh.m.wikipedia.org/zh/%E6%98%A5%E5%85%89%E4%B9%8D%E6%B4%A9'> 春光乍泄 (Happy Together) </a>
+- <a href='https://zh.m.wikipedia.org/zh/%E8%80%80%E7%9C%BC'> 눈이부시게 (无比耀眼) </a>
+- <a href='https://zh.wikipedia.org/zh-cn/%E5%85%A8%E9%9D%A2%E5%95%9F%E5%8B%95'> Inception (盗梦空间) </a>
+- <a href='https://zh.m.wikipedia.org/zh/%E5%A6%99%E6%89%8B%E4%BB%81%E5%BF%83'> Healing Hands (妙手仁心), Season 1 ONLY </a>
+- <a href='https://zh.m.wikipedia.org/zh/%E6%98%A5%E5%85%89%E4%B9%8D%E6%B4%A9'> Happy Together (春光乍泄) </a>
 
 BOOKS:
 - <a href='https://zh.m.wikipedia.org/zh/%E5%B7%A8%E6%B5%81%E6%B2%B3_(%E5%B0%8F%E8%AA%AA)'> 齐邦媛 《巨流河》 </a>
