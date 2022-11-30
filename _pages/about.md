@@ -9,7 +9,7 @@ profile:
   image: avatar_hu35907d964f08126e17883956c72fbd36_2383951_270x270_fill_q75_lanczos_center.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>024B Peyton Hall</p>
+    <p>022 Peyton Hall</p>
     <p>4 Ivy Lane</p>
     <p>Princeton, NJ 08544</p>
 
