@@ -17,6 +17,7 @@ TV DRAMA/MOVIE/ANIMATION:
 - <a href='https://zh.wikipedia.org/zh-cn/%E5%85%A8%E9%9D%A2%E5%95%9F%E5%8B%95'> Inception (盗梦空间) </a>
 - <a href='https://zh.m.wikipedia.org/zh/%E5%A6%99%E6%89%8B%E4%BB%81%E5%BF%83'> Healing Hands (妙手仁心), Season 1 ONLY </a>
 - <a href='https://zh.m.wikipedia.org/zh/%E6%98%A5%E5%85%89%E4%B9%8D%E6%B4%A9'> Happy Together (春光乍泄) </a>
+- <a href='https://www.netflix.com/title/70205012'> Naruto (火影忍者), NOT including episode 700-720 AND Boruto </a>
 
 BOOKS:
 - <a href='https://zh.m.wikipedia.org/zh/%E5%B7%A8%E6%B5%81%E6%B2%B3_(%E5%B0%8F%E8%AA%AA)'> 齐邦媛 《巨流河》 </a>
@@ -34,7 +35,8 @@ Play:
 Favorites:
 - Physicist: P.A.M Dirac (theorist), Chien-Shiung Wu (吴健雄) (Experimentalist)
 - Writer: Kenneth Pai Hsien-yung (白先勇)
-- Soccer player: <a href='https://www.instagram.com/andriyshevchenko/'> Andriy Shevchenko </a> (Андрей Николаевич Шевченко)
+- Football player: <a href='https://www.instagram.com/andriyshevchenko/'> Andriy Shevchenko </a> (Андрей Николаевич Шевченко) & <a href='https://www.instagram.com/kaka/'> Ricardo Kaká </a> (Ricardo Izecson dos Santos Leite)
+- Football club: AC Milan (Forza Milan!)
 - Poet: Anna Akhmatova (А́нна Ахма́това)
 - Film director: Christopher Nolan
 - Singer: Hins Cheung King Hin (张敬轩), Jacky Cheung Hok Yau (张学友)
