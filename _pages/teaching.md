@@ -24,8 +24,8 @@ BOOKS:
 - <a href='https://baike.baidu.com/item/%E7%9B%AE%E9%80%81/5698600'> 龙应台 《目送》 </a>
 - 韩江 《少年来了》 (소년이온다) 
 - <a href='https://baike.baidu.com/item/%E5%8D%97%E6%B8%A1%E5%8C%97%E5%BD%92/1384599'> 岳南 《南渡北归》</a>
-- <a href='https://en.wikipedia.org/wiki/Ninety-Three'> Victor Hugo《Ninety-Three》 </a>
-- Alexander Herzen《My Past and Thoughts》
+- <a href='https://en.wikipedia.org/wiki/Ninety-Three'> 雨果 《九三年》 </a> (Victor Hugo «Quatrevingt-treize»)
+- 赫尔岑 《往事与随想》(Александр Иванович Герцен «Былое и думы»)
 
 Play:
 - <a href='https://en.wikipedia.org/wiki/Copenhagen_(play)'> Michael Frayn: Copenhagen </a>
@@ -34,7 +34,8 @@ Play:
 Favorites:
 - Physicist: P.A.M Dirac (theorist), Chien-Shiung Wu (吴健雄) (Experimentalist)
 - Writer: Kenneth Pai Hsien-yung (白先勇)
-- Soccer player: <a href='https://www.instagram.com/andriyshevchenko/'> Andriy Shevchenko </a> 
+- Soccer player: <a href='https://www.instagram.com/andriyshevchenko/'> Andriy Shevchenko </a> (Андрей Николаевич Шевченко)
+- Poet: Anna Akhmatova (А́нна Ахма́това)
 - Film director: Christopher Nolan
 - Singer: Hins Cheung King Hin (张敬轩), Jacky Cheung Hok Yau (张学友)
 - Youtuber: <a href='https://www.youtube.com/c/twosetviolin'> @TwoSetViolin </a>
