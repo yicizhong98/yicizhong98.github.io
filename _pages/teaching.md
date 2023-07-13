@@ -27,17 +27,17 @@ BOOKS:
 - 齐邦媛 《巨流河》
 - 白先勇 《台北人》 
 - 龙应台 《目送》 
-- 韩江 《少年来了》 (소년이온다)
+- 한강 «소년이온다» (韩江 《少年来了》)
 - 朱天心 《三十三年梦》
 - 邱妙津 《鳄鱼手记》、《蒙马特遗书》
 - 岳南 《南渡北归》
 - 汪曾祺 《人间草木》
-- 雨果 《九三年》 (Victor Hugo «Quatrevingt-treize»)
-- 赫尔岑《往事与随想》(Александр Иванович Герцен «Былое и думы»)
+- Victor Hugo «Quatrevingt-treize» (雨果 《九三年》)
+- Александр Иванович Герцен «Былое и думы» (赫尔岑《往事与随想》)
 
 Play:
 - Michael Frayn: Copenhagen
-- 四世同堂 (Four Generations Under One Roof) 2011, 导演: 田沁鑫
+- 四世同堂 (Four Generations Under One Roof)
 
 Favorites:
 - Physicist: P.A.M Dirac (theorist), 吴健雄 (Chien-Shiung Wu) (Experimentalist)
