@@ -8,36 +8,43 @@ nav_order: 5
 ---
 
 TV DRAMA/MOVIE/ANIMATION:
-- <a href='https://www.netflix.com/title/80025678'>The Crown Season 4 (王冠第四季) </a>
-- <a href='https://jujutsukaisen.jp/onair/'> 呪術廻戦 (咒术回战) </a>
-- <a href='https://zh.wikipedia.org/wiki/%E4%B8%80%E6%8A%8A%E9%9D%92'> A Touch of Green (一把青) </a>
-- <a href='https://zh.m.wikipedia.org/zh/%E7%BE%8E%E4%B8%BD%E5%BF%83%E7%81%B5'> A Beautiful Mind (美丽心灵) </a>
-- <a href='https://zh.m.wikipedia.org/zh-hans/%E5%86%B2%E5%A4%A9_(%E7%B4%80%E9%8C%84%E7%89%87)'> 冲天 </a>
-- <a href='https://zh.m.wikipedia.org/zh/%E8%80%80%E7%9C%BC'> 눈이부시게 (无比耀眼) </a>
-- <a href='https://zh.wikipedia.org/zh-cn/%E5%85%A8%E9%9D%A2%E5%95%9F%E5%8B%95'> Inception (盗梦空间) </a>
-- <a href='https://zh.m.wikipedia.org/zh/%E5%A6%99%E6%89%8B%E4%BB%81%E5%BF%83'> Healing Hands (妙手仁心), Season 1 ONLY </a>
-- <a href='https://zh.m.wikipedia.org/zh/%E6%98%A5%E5%85%89%E4%B9%8D%E6%B4%A9'> Happy Together (春光乍泄) </a>
-- <a href='https://www.netflix.com/title/70205012'> Naruto (火影忍者), NOT including episode 700-720 AND Boruto </a>
+- The Crown Season 4 
+- 呪術廻戦
+- 一把青 (A Touch of Green) 
+- 美丽心灵 (A Beautiful Mind)
+- 冲天
+- 눈이부시게
+- The Curious Case of Benjamin Button
+- Inception 
+- 妙手仁心 (Healing Hands, Season 1 ONLY)
+- 春光乍泄 (Happy Together)
+- 最好的时光 (Three times)
+- 悲情城市 (A City of Sadness)
+- 饮食男女 (Eat Drink Man Woman)
+- NARUTO -ナルト- (NOT including episode 700-720 AND Boruto)
 
 BOOKS:
-- <a href='https://zh.m.wikipedia.org/zh/%E5%B7%A8%E6%B5%81%E6%B2%B3_(%E5%B0%8F%E8%AA%AA)'> 齐邦媛 《巨流河》 </a>
-- <a href='https://zh.wikipedia.org/zh-sg/%E8%87%BA%E5%8C%97%E4%BA%BA'> 白先勇 《台北人》 </a>
-- <a href='https://baike.baidu.com/item/%E7%9B%AE%E9%80%81/5698600'> 龙应台 《目送》 </a>
-- 韩江 《少年来了》 (소년이온다) 
-- <a href='https://baike.baidu.com/item/%E5%8D%97%E6%B8%A1%E5%8C%97%E5%BD%92/1384599'> 岳南 《南渡北归》</a>
-- <a href='https://en.wikipedia.org/wiki/Ninety-Three'> 雨果 《九三年》 </a> (Victor Hugo «Quatrevingt-treize»)
-- 赫尔岑 《往事与随想》(Александр Иванович Герцен «Былое и думы»)
+- 齐邦媛 《巨流河》
+- 白先勇 《台北人》 
+- 龙应台 《目送》 
+- 韩江 《少年来了》 (소년이온다)
+- 朱天心 《三十三年梦》
+- 邱妙津 《鳄鱼手记》、《蒙马特遗书》
+- 岳南 《南渡北归》
+- 汪曾祺 《人间草木》
+- 雨果 《九三年》 (Victor Hugo «Quatrevingt-treize»)
+- 赫尔岑《往事与随想》(Александр Иванович Герцен «Былое и думы»)
 
 Play:
-- <a href='https://en.wikipedia.org/wiki/Copenhagen_(play)'> Michael Frayn: Copenhagen </a>
-- <a href='https://baike.baidu.com/item/%E5%9B%9B%E4%B8%96%E5%90%8C%E5%A0%82/5388500'> 四世同堂 (Four Generations Under One Roof) 2011, 导演: 田沁鑫 </a>
+- Michael Frayn: Copenhagen
+- 四世同堂 (Four Generations Under One Roof) 2011, 导演: 田沁鑫
 
 Favorites:
-- Physicist: P.A.M Dirac (theorist), Chien-Shiung Wu (吴健雄) (Experimentalist)
-- Writer: Kenneth Pai Hsien-yung (白先勇)
-- Football player: <a href='https://www.instagram.com/andriyshevchenko/'> Andriy Shevchenko </a> (Андрей Николаевич Шевченко) & <a href='https://www.instagram.com/kaka/'> Ricardo Kaká </a> (Ricardo Izecson dos Santos Leite)
-- Football club: AC Milan (Forza Milan!)
-- Poet: Anna Akhmatova (А́нна Ахма́това)
-- Film director: Christopher Nolan
-- Singer: Hins Cheung King Hin (张敬轩), Jacky Cheung Hok Yau (张学友)
-- Youtuber: <a href='https://www.youtube.com/c/twosetviolin'> @TwoSetViolin </a>
+- Physicist: P.A.M Dirac (theorist), 吴健雄 (Chien-Shiung Wu) (Experimentalist)
+- Writer: 白先勇 (Kenneth Pai Hsien-yung)
+- Football player: Андрей Николаевич Шевченко (Andriy Shevchenko) & Ricardo Kaká
+- Football club: AC Milan
+- Poet: А́нна Ахма́това (Anna Akhmatova)
+- Film director: Christopher Nolan, 李安 (Ang Lee)
+- Singer: 张敬轩 (Hins Cheung King Hin), 张学友 (Jacky Cheung Hok Yau)
+- Youtuber: @TwoSetViolin 
