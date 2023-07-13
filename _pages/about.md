@@ -17,10 +17,4 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm mainly working on simulations in high energy astrophysics and cosmology, including but not limiting to:
-- Pulsar magnetosphere
-- Hydrodynamics and Magnetohydrodynamics simulations of the interaction between the fallback accretion and proto-neutron star wind, and how it affects the neutron star diversity.
-- Spin-down evolution of massive white dwarf remnants
-- Painting baryonic effects on gravity-only N-body simulations (<a href='https://github.com/HalfDomeSims'>HALF-DOME simulation</a>) using machine learning method
-- Developing a rotation-invariant CNN
-- ...
+I'm mainly interested in understanding the high energy phenomena around neutron stars and massive white dwarf remnants, through analytical models, fluid and kinetic simulations.
