@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Pulsar magnetosphere
-description: How does binary pulsar system PSR J0737-3039 spin down?
+title: Spindown of Pulsars Interacting with Companion Winds
 img: assets/img/3d_ms.png
-importance: 3
+importance: 1
 category: work
 ---
