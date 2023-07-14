@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Half-Dome Simulations
-description: We want to paint hydrodynamical effects to Dark matter simulations through machine learning method
-img: assets/img/halomap.png
+title: Half-Dome
+img: assets/img/map.pdf
 importance: 3
 category: work
 ---
