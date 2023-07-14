@@ -12,6 +12,7 @@ MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - The Curious Case of Benjamin Button
 - Inception
 - Titanic
+- Harry Potter
 - X-Men: Days of Future Past
 - 春光乍泄 (Happy Together)
 - 最好的时光 (Three times)
@@ -29,7 +30,6 @@ MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - 妙手仁心 (Healing Hands, Season 1 ONLY)
 - 呪術廻戦
 - NARUTO -ナルト- (NOT including episode 700-720)
-- Harry Potter
 
 BOOKS:
 - 齐邦媛 《巨流河》
