@@ -13,7 +13,9 @@ MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - Inception
 - Darkest Hour
 - Dunkirk
+- Hacksaw Ridge
 - The Imitation Game
+- The Boy in the Striped Pajamas
 - Titanic
 - Harry Potter
 - X-Men: Days of Future Past
