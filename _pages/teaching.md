@@ -11,6 +11,9 @@ MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - A Beautiful Mind
 - The Curious Case of Benjamin Button
 - Inception
+- Darkest Hour
+- Dunkirk
+- The Imitation Game
 - Titanic
 - Harry Potter
 - X-Men: Days of Future Past
