@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+Besides physics and mathematics, I enjoy sci-fi/historical/Biographical movies, as well as documentary. I love writting and reading. During the first year of Covid, I finished my first novel, which focused on a relationship between two men from the so-called 386 generation; how did they join and create the history, their identification, loneliness and regrets. 
+
 MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - A Beautiful Mind
 - The King's Speech
@@ -32,10 +34,11 @@ MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - 他们在岛屿写作
 - The Crown
 - 一把青 (A Touch of Green)
+- Unsere Mütter, unsere Väter (Generation War)
 - 人间正道是沧桑
 - 父母爱情
 - 눈이부시게
-- 응답하라 1988
+- 응답하라 1988 (Reply 1988)
 - 妙手仁心 (Healing Hands, Season 1 ONLY)
 - 呪術廻戦
 - NARUTO -ナルト- (NOT including episode 700-720)
