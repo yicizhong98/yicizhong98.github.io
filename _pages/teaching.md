@@ -9,13 +9,16 @@ nav_order: 5
 
 MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - A Beautiful Mind
-- The Curious Case of Benjamin Button
-- Inception
 - Darkest Hour
 - Dunkirk
 - Hacksaw Ridge
 - The Imitation Game
 - The Boy in the Striped Pajamas
+- 1987 (1987: When the Day Comes)
+- 택시운전사 (A Taxi Driver)
+- 화려한 휴가 (May 18)
+- The Curious Case of Benjamin Button
+- Inception
 - Titanic
 - Harry Potter
 - X-Men: Days of Future Past
