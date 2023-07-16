@@ -9,6 +9,7 @@ nav_order: 5
 
 MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - A Beautiful Mind
+- The King's Speech
 - Darkest Hour
 - Dunkirk
 - Hacksaw Ridge
