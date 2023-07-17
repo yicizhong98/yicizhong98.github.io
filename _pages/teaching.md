@@ -28,7 +28,9 @@ MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - 春光乍泄 (Happy Together)
 - 最好的时光 (Three times)
 - 悲情城市 (A City of Sadness)
+- 宋家皇朝 (The Soong Sisters)
 - 饮食男女 (Eat Drink Man Woman)
+- 玻璃之城 (City of Glass)
 - そして父になる
 - 冲天
 - 他们在岛屿写作
