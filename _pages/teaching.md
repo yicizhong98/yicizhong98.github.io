@@ -11,6 +11,7 @@ Besides physics and mathematics, I enjoy sci-fi/historical/Biographical movies, 
 
 MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - A Beautiful Mind
+- Oppenheimer
 - The King's Speech
 - Darkest Hour
 - Dunkirk
@@ -31,7 +32,7 @@ MOVIE/DOCUMENTARY/TV DRAMA/ANIMATION:
 - 宋家皇朝 (The Soong Sisters)
 - 饮食男女 (Eat Drink Man Woman)
 - 玻璃之城 (City of Glass)
-- そして父になる
+- そして父になる (Like father, like son)
 - 冲天
 - 他们在岛屿写作
 - The Crown
