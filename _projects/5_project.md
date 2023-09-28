@@ -12,5 +12,5 @@ category: work
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Pulsar magnetosphere shocked by companion wind, with wind standoff distance inside the light cylinder
 </div>
