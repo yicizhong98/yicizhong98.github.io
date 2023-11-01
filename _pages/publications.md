@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Previous works (tbc)
-years: [2019,2021,2022]
+description: Previous and ongoing works
+years: [2021,2023]
 nav: true
 nav_order: 1
 ---
