@@ -2,16 +2,15 @@
 layout: about
 title: AboutMe
 permalink: /
-subtitle: Ph.D. student in Physics at <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The University of Tokyo</a>, currently visiting Department of Astrophysical Sciences at <a href='https://web.astro.princeton.edu/'>Princeton University</a>
-
+subtitle: Ph.D. student in Physics at <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The University of Tokyo</a>
 profile:
   align: right
-  image: avatar_hu35907d964f08126e17883956c72fbd36_2383951_270x270_fill_q75_lanczos_center.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>022 Peyton Hall</p>
-    <p>4 Ivy Lane</p>
-    <p>Princeton, NJ 08544</p>
+    <p>Department of Physics</p>
+    <p>University of Tokyo</p>
+    <p>113-0033 Hongo, Tokyo</p>
 
 news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
