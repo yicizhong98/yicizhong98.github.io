@@ -1,10 +1,10 @@
 "ApJ":
   url: https://iopscience.iop.org/journal/0004-637X
-  color: "#00369f"
+  color: "#FF9896"
 
 "PRD":
   url: https://journals.aps.org/prd/
   color: "#C5B0D5"
 
-"?":
-  color: "#F7B6D2"
+"arXiv":
+  color: "#AEC7E8"
