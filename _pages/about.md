@@ -2,15 +2,15 @@
 layout: about
 title: AboutMe
 permalink: /
-subtitle: Ph.D. student in Physics at <a href='https://www.phys.s.u-tokyo.ac.jp/en/'>The University of Tokyo</a>
+subtitle: Burke Fellow at California Institute of Technology
 profile:
   align: right
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Physics</p>
-    <p>University of Tokyo</p>
-    <p>113-0033 Hongo, Tokyo</p>
+    <p>343 Cahill</p>
+    <p>1216 E California Blvd</p>
+    <p>Pasadena, CA 91125</p>
 
 news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
