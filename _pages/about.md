@@ -2,7 +2,7 @@
 layout: about
 title: AboutMe
 permalink: /
-subtitle: Burke Fellow at California Institute of Technology
+subtitle: Sherman Fairchild Postdoctoral Scholar Research Associate in Theoretical Astrophysics
 profile:
   align: right
   image: avatar.jpg
