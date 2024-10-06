@@ -5,8 +5,8 @@
 title: Yici ZHONG (钟伊慈) # the website title (if blank, full name will be used instead)
 first_name: Yici
 last_name: ZHONG
-email: yici.zhong@phys.s.u-tokyo.ac.jp
-description: Phd student at the department of physics, The University of Tokyo
+email: yczhong@caltech.edu
+description: Sherman Fairchild Postdoctoral Scholar Research Associate in Theoretical Astrophysics
 footer_text: 
 keywords: 
 
@@ -82,8 +82,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: MassiveNuS # blog_name will be displayed in your blog page
-blog_nav_title: NuS # your blog must have a title for it to be displayed in the nav bar
+blog_name: MassiveNeuS # blog_name will be displayed in your blog page
+blog_nav_title: NeuS # your blog must have a title for it to be displayed in the nav bar
 blog_description: What's new
 permalink: /blog/:year/:title/
 
